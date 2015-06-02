@@ -2,7 +2,7 @@
 
 Remember mad-libs from high school English? If not, check out http://www.madglibs.com/ to get an idea about what I'm referencing.
 
-The purpose of this activity is to get you comfortable with using basic concepts of javaScript. Each step increasing with difficulty.  That means step 1 should be a no-brainer, but each step forward will require you to apply more of what you have learned.  Your goal is to complete step 4.  If you complete step 4, and you're still hungry to learn more, continue onward.
+The purpose of this activity is to help you become comfortable with using basic concepts of javaScript between the instructional period when the instructors introduced these concepts and the following class. Start simple! Do not create a beast that is too complicated that produces tons of complicated frustrated problems. With that in mind, each step increases with difficulty.  That means step 1 should be a no-brainer, but each step forward will require you to apply more of what you have learned, and may require you to look for external resources.  Your goal is to complete step 4.  If you complete step 4, and you're still hungry to learn more, continue onward, and make more complicated.
 
 1. Fork this repo, clone it to your local computer, add a css file and link it to index.html.  Inside this css file, change the background color to your favorite color.  Commit these changes and push to gitHub.  Make the commit message "Initial commit".
 
