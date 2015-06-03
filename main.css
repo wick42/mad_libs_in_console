@@ -3,3 +3,11 @@
 body {
 	background-color: tomato;
 }
+
+.header {
+	max-width: 64em;
+	border: 2px solid lightyellow;
+	margin: 0 auto;
+	min-height: 4em;
+	text-align: center;
+}
